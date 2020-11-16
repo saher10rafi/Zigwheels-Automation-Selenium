@@ -1,0 +1,6 @@
+18:11:26.664 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Select the used cars
+18:11:36.632 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Select the Location of used cars
+18:11:37.066 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Fetching Used cars in the selected location
+18:11:53.161 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login with Invalid Email
+18:12:18.739 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login without the password
+18:12:28.505 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login withoud email address

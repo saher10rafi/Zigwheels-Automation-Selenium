@@ -1,0 +1,6 @@
+16:14:31.780 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login without the captcha
+16:14:51.100 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login without the Captcha and Password
+16:15:04.029 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login with facebook test1
+16:15:11.373 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login with facebook test2
+16:15:23.628 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login with facebook test3
+16:15:24.966 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Browser quit

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="IdentifyBikesandCars.IdentifyBikesTest">
+        <methods>
+          <include name="getUpcomingBikes"/>
+          <include name="loginTest2"/>
+          <include name="Bikes"/>
+          <include name="getLocation"/>
+          <include name="usedCars"/>
+          <include name="tearDown"/>
+          <include name="getCarDetails"/>
+          <include name="loginTest3"/>
+          <include name="loginWithoutCaptchaandPassword"/>
+          <include name="loginInvalidEmail"/>
+          <include name="selectBrand"/>
+          <include name="loginWithoutEmail"/>
+          <include name="upcomingBikes"/>
+          <include name="getTitle"/>
+          <include name="loginWithoutCaptcha"/>
+          <include name="loginTest"/>
+          <include name="loginWithoutPassword"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- IdentifyBikesandCars.IdentifyBikesTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

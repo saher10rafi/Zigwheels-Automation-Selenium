@@ -1,0 +1,6 @@
+16:13:14.127 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Select the used cars
+16:13:17.147 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Select the Location of used cars
+16:13:17.732 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Fetching Used cars in the selected location
+16:13:31.303 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login with Invalid Email
+16:13:56.728 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login without the password
+16:14:06.367 [main] INFO  IdentifyBikesandCars.IdentifyBikesTest - Login withoud email address
